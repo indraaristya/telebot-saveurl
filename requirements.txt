@@ -1,0 +1,4 @@
+python-dateutil==2.6.1
+python-firebase==1.2
+python-ngrok==0.1
+python-telegram-bot==11.1.0
